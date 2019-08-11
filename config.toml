@@ -1,0 +1,6 @@
+baseURL = " http://hhm980806.gitee.io/draper.io/"
+title = "Binario"
+languageCode = "en-us"
+paginate = 10
+theme = "binario"
+
